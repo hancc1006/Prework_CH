@@ -1,0 +1,54 @@
+h1{
+   text-align:center; 
+}
+
+#change .color:nth-child(1){
+    color:red;
+}
+
+#change .color:nth-child(2){
+    color:blue;
+}
+
+#change .color:nth-child(3){
+    color:green;
+}
+
+#change .fontsize:nth-child(4){
+    font-size:35px;
+}
+
+#change .fontsize:nth-child(5){
+    font-size:10px;
+}
+
+#change .center:nth-child(6){
+    text-align:center;
+}
+
+#change .bold:nth-child(7){
+    font-weight:bold;
+}
+
+
+/*test-font: italic small-caps bold 20px Arial, sans-serif;*/
+#change .font:nth-child(8){
+    font: 15px Arial, sans-serif;
+}
+
+#change .multiple:nth-child(9){
+    font-size: 25px;
+    color: orange;
+    font-weight:bold;
+}
+
+#change .styledFont{
+    color: green;
+    font: 20px Arial, sans-serif;
+}
+
+#styledImage{
+    width:650px;
+    border:25px solid orange;
+    /*padding: 15px;*/
+}

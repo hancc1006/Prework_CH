@@ -1,0 +1,40 @@
+#styledimage{
+    width:650px;
+    border:25px solid orange;
+}
+
+p.Bio{
+    font: 20px Arial, sans-serif;
+}
+body{
+    background:burlywood;
+}
+
+table,th{
+    border:1px solid black;
+}
+
+h1{
+    font:bold 30px Arial, sans-serif;
+}
+
+h2{
+    font:bold 30px Arial, sans-serif;
+}
+li{
+    font:20px Arial, sans-serif;
+}
+a:visited{
+    color:black;
+
+}
+a:hover{
+    color:olive;
+}
+
+a:link{
+    color:purple;
+}
+a:active{
+    color:yellow;
+}
